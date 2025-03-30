@@ -6,6 +6,7 @@
 ### Datos Personales
 - Mi nombre es: Sebastián. 
 - Vivo en Hurlingham.
+- Juego fútbol con amigos y voy al gimnasio.
 
 
 ### Otra Información
